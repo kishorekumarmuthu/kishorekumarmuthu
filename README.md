@@ -29,7 +29,7 @@ technical_background:
   
 currently_learning: ["Kubernetes, Kafka"]
 2024 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Books", "Cinema"]
+hobbies: ["Books", "Movies"]
 
 ```
 
