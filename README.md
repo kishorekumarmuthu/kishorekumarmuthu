@@ -48,7 +48,7 @@ hobbies: ["Books", "Movies"]
 <h2> 🚀 &nbsp;DB's</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg)
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
 </p>
 
