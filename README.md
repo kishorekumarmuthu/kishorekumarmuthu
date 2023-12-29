@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ```yaml
 
@@ -76,3 +76,8 @@ hobbies: ["Books", "Movies"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" height="45"/>  
 </p>
+
+<h2> 🚀 &nbsp;Github Stats</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumarmuthu)](https://github.com/anuraghazra/github-readme-stats)
+
