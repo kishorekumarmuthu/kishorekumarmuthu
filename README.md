@@ -6,13 +6,13 @@
 
 name: Kishore Kumar
 located_in: Chennai, India
-current_job: Backend Developer
+current_job: MERN Stack Developer
 education:
   [
     "Self-Taught Developer",
     "Bachelor's in Computer Science and Engineering",
   ]
-company: Rejola IT Services, Chennai, India
+company: Bixware Technologies, Mumbai, India
 
 fields_of_interests:
   [
