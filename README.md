@@ -9,14 +9,14 @@ located_in: Chennai, India
 current_job: MERN Stack Developer
 education:
   [
-    "Self-Taught Developer",
     "Bachelor's in Computer Science and Engineering",
   ]
 company: Bixware Technologies, Mumbai, India
 
 fields_of_interests:
   [
-    "Web Development",
+    "MERN Stack",
+    "BackEnd Development",
     "AI",
     "Deep Learning"
     "Machine Learning",
@@ -30,7 +30,7 @@ technical_background:
   ]
   
 currently_learning: ["Kubernetes, Kafka"]
-2024 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
+2024 Goals: ["Create 10+ Projects and learn at least 3-5 new Technologies."]
 hobbies: ["Books", "Movies"]
 
 ```
@@ -49,9 +49,10 @@ hobbies: ["Books", "Movies"]
 
 <h2> 🚀 &nbsp;DB's</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg" width="45" height="45" alt="Mangodb"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45"/>          
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
