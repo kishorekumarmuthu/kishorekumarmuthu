@@ -20,7 +20,7 @@ fields_of_interests:
     "AI",
     "Deep Learning"
     "Machine Learning",
-    "DevOps",
+    "DevOps"
   ]
 technical_background:
   [
