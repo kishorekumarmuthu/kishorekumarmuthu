@@ -60,10 +60,10 @@ hobbies: ["Books", "Movies"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55" height="55"/>
 <img src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png" width="55" height="55"/>
-<img src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" width="55" height="55"/>
+<img src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" width="75" height="55"/>
 <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" width="55" height="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" width="55" height="55"/>
-<img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" width="75" height="55"/>
+<img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" width="75" height="55"/>
 <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55"/>
