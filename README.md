@@ -15,8 +15,7 @@ company: Bixware Technologies, Mumbai, India
 
 fields_of_interests:
   [
-    "MERN Stack",
-    "BackEnd Development",
+    "Application Development",
     "AI",
     "Deep Learning"
     "Machine Learning",
@@ -24,9 +23,10 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer",
-    "Backend Developer",
-    "MERN Stack Developer"
+    "MERN Stack",
+    "Full Stack Development",
+    "BackEnd Development",
+    "Front End Development",
   ]
   
 currently_learning: ["Kubernetes, Kafka"]
@@ -61,6 +61,11 @@ hobbies: ["Books", "Movies"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/>
+<img src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png" width="45" height="45"/>
+<img src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" width="45" height="45"/>
+<img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" width="45" height="45"/>
+<img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" width="45" height="45"/>
 <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
